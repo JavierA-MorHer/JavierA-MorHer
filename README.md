@@ -1,5 +1,5 @@
 - 👋 Hola, soy @JavierA-MorHer
-- 👀 Estoy interesado en el desarrollo web y desarrollo móvil.
+- 👀 Estoy interesado en el desarrollo web especialmente en el frontend, ademas esoty interesado en aprender desarrollo móvil para Android.
 - 🌱 Actualmente estoy cursando la carrera de Ingenería en Sistemas Computacionales
 - 📫 Contacto: 
 -       Correo: jmorales_1127@outlook.com
