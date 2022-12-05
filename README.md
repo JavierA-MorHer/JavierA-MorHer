@@ -1,6 +1,6 @@
 - 👋 Hola, soy Javier Alejandro Morales Hernández
 - 🌱 Actualmente estoy cursando la carrera de Ingenería en Sistemas Computacionales en el Instituto Tecnológico de León
-- 👀 Diseñador UX/UI y desarrollador Front End.
+- 👀 Me gusta mucho el desarrollado Front End.
 - 👀 Soy una persona sumamente autodidacta y amante del aprendizaje constante.
 
 - 📫 Contacto: 
