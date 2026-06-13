@@ -1,9 +1,8 @@
-- 👋 Hola, soy Javier Alejandro Morales Hernández
-- 🌱 Actualmente estoy cursando la carrera de Ingenería en Sistemas Computacionales en el Instituto Tecnológico de León
-- 🌱 Mi portafolio web: https://javiermoralesportafolio.netlify.app/
-- 👀 Me gusta mucho el desarrollado Web.
-- 👀 Soy una persona sumamente autodidacta y amante del aprendizaje constante.
-
-- 📫 Contacto: 
--       Correo: jmorales_1127@outlook.com
-
+Fullstack Engineer with a product-oriented mindset and a proven track record of architecting, building, and delivering
+scalable, high-performance End-to-End solutions. Highly adaptable engineer with deep expertise navigating both Enterprise
+and Open Source ecosystems, seamlessly translating complex business requirements into robust technical
+architectures—spanning from normalized relational database modeling to secure APIs and modular, high-fidelity user
+interfaces. Committed to software engineering excellence through the strict application of principles like SOLID,
+Domain-Driven Design (DDD), Clean Architecture, and advanced DevOps workflows. Proficient in leveraging Generative AI
+to optimize code quality and accelerate development lifecycles, ensuring continuous business value and stable cloud
+deployments.
